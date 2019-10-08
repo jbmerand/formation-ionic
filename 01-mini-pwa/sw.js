@@ -8,17 +8,6 @@ const FILES_TO_CACHE = [
 
 const STATIC_CACHE_NAME = 'pages-cache-v2';
 
-/*self.addEventListener('install', event => {
-    console.log('Installation du Service Worker...');
-    console.log('Mise en cache des ressources');
-    event.waitUntil(
-        caches.open(STATIC_CACHE_NAME)
-            .then(cache => {
-                return cache.addAll(FILES_TO_CACHE);
-            })
-    )
-});*/
-
 self.addEventListener('install', event => {
     console.log('Installation du Service Worker...');
     console.log('Mise en cache des ressources');
