@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">tp-capacitor-devfest</string>
+    <string name="title_activity_main">tp-capacitor-devfest</string>
+    <string name="package_name">dev.jbmerand.capacitor</string>
+    <string name="fileprovider_authority">dev.jbmerand.capacitor.fileprovider</string>
+    <string name="custom_url_scheme">dev.jbmerand.capacitor</string>
+</resources>

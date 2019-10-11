@@ -1,0 +1,7 @@
+{
+  "appId": "dev.jbmerand.capacitor",
+  "appName": "tp-capacitor-devfest",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www"
+}
